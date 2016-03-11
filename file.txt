@@ -3,4 +3,4 @@ bebe1
 snakes2
 snakes3
 snakes5
-liuci6
+luci6
